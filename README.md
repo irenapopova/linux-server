@@ -1,4 +1,4 @@
-# linux-server
+# Full stack web developer udacity nanodegree - Linux server
 i. The IP address and SSH port so your server can be accessed by the reviewer.<br>
 ```
 host : 134.122.90.168
