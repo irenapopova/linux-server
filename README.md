@@ -15,7 +15,11 @@ iii. A summary of software you installed and configuration changes made.
 - Flask,sql alchmey libraries are installed using pip3.
 - Updated Google api console with the new domain names and ip address to accept the OAUTH
 
-iv. A list of any third-party resources you made use of to complete this project.
+iv. Softwares/DNS
 - pgAdmin,postgresql
 - apache2
 - Godaddy (Domain registraion for irenaapp.de)
+
+v. A list of any third-party resources you made use of to complete this project.
+- Followed this url for installing postgres which ialso helped in understanding the necessity of disabling remote ports of database in production systems https://medium.com/@omerkarabacak/how-to-setup-postgresql-on-ubuntu-16-04-12facbf98c9
+- Read about SSH private and public key from https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2 and understood there importance in secure connections
